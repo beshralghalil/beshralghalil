@@ -1,6 +1,34 @@
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=beshralghalil&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beshralghalil&theme=dark" width="48%" >
+<div align="center">
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beshralghalil&layout=compact)
+# Hi, I'm Beshr 👋
+
+Writing code that mostly works 💻
+</div>
+
+---
+
+### 🛠️ Stack
+**Languages:** `C` · `Rust` · `Python` · `Shell` · `C++ (for when life isn't painful enough)` 
+
+**Domains:** `AI` · `Firmware` · `Backend` · `DevOps` · `Frontend (under protest)`
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=beshralghalil&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=beshralghalil&theme=default&hide_border=true" alt="GitHub streak" height="170" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshralghalil&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top languages" height="150" />
+
+</div>
+
+---
+
+<div align="center">
+
+📫 Find me on [GitHub](https://github.com/beshralghalil)
+
+</div>
