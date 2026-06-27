@@ -17,11 +17,7 @@ Writing code that mostly works 💻
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=beshralghalil&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=beshralghalil&theme=default&hide_border=true" alt="GitHub streak" height="170" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshralghalil&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshralghalil&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top languages" height="170" />
 
 </div>
 
