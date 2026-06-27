@@ -8,7 +8,7 @@ Writing code that mostly works 💻
 ---
 
 ### 🛠️ Stack
-**Languages:** `C` · `Rust` · `Python` · `Shell` · `C++ (for when life isn't painful enough)` 
+**Languages:** `C` · `Rust` · `Python` · `JS` · `Bash` · `C++ (for when life isn't painful enough)` 
 
 **Domains:** `AI` · `Firmware` · `Backend` · `DevOps` · `Frontend (under protest)`
 
